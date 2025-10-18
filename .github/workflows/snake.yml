@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs once daily at midnight UTC
-  workflow_dispatch:       # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,15 +15,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate dark snake SVG
+      - name: Generate both snakes (dark + light)
         uses: Platane/snk@v3
         with:
           github_user_name: AdithyaRaoK14
-          outputs: dist/github-contribution-grid-snake-dark.svg
-          # Explicitly specify dark theme style
-          snake_color: '#00FFFF'
-          background: '#0d1117'
-          color_snake: '#00FFFF'
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-light.svg
+          palette: github-dark github-light
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
