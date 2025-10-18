@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
+    - cron: "0 0 * * *"  # every day
   workflow_dispatch:
 
 permissions:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # important
+          persist-credentials: false
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -32,7 +32,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin
           git checkout output
           cp -r dist/* .
           git add . -f
