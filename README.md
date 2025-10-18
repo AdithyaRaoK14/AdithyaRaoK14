@@ -1,6 +1,6 @@
 <!-- ========================== HEADER & BANNER ========================== -->
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.png" width="100%" alt="Banner">
+  <img src="https://i.imgur.com/0v6t8lY.png" width="100%" alt="Futuristic AI Banner">
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Adithya Rao</span></h1>
@@ -74,8 +74,6 @@
     <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
   </picture>
 </p>
-
-
 
 ---
 
