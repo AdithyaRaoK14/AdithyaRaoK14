@@ -1,6 +1,6 @@
 <!-- ========================== HEADER & BANNER ========================== -->
 <p align="center">
-  <img src="https://i.imgur.com/0v6t8lY.png" width="100%" alt="Futuristic AI Banner">
+  <img src="https://your-image-url.com/your-banner.png" width="100%" alt="Futuristic AI Banner">
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Adithya Rao</span></h1>
