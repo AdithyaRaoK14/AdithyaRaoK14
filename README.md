@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/8MupZHY.png" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Adithya Rao</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Adithya Rao Kalathur</span></h1>
 <h3 align="center">🚀 AI & ML Enthusiast | Deep Learning Explorer | Tech Innovator</h3>
 
 <p align="center">
