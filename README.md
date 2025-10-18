@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
