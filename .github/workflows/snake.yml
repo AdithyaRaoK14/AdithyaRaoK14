@@ -1,39 +1,20 @@
-name: Generate Snake Animation 🐍
+name: Generate GitHub Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day
+    - cron: "0 0 * * *"  # daily at midnight UTC
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  generate_snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-
-      - name: Generate snake animation
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: AdithyaRaoK14
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFFF
-
-      - name: Push generated files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout output
-          cp -r dist/* .
-          git add . -f
-          git commit -m "Generated snake animation" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} output --force
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFFF
+          deploy: true
