@@ -58,6 +58,9 @@
   <a href="mailto:aditykr142@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://adithyaraok14.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=appveyor&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -75,9 +78,6 @@
   </picture>
 </p>
 
-
-
 ---
 
 ⭐ *If you like my work, consider starring some repositories — it helps more than you think!* 😄
-
