@@ -28,11 +28,11 @@
 
 ### 🎯 Current Focus
 
-- 🔥 Exploring **Generative AI** and **Large Language Models**
-- 🛠️ Building **end-to-end ML pipelines** for real-world impact
-- 📊 Mastering **data analytics** and **business intelligence**
-- 🌐 Contributing to **open-source AI projects**
-- 📚 Continuous learning in **advanced deep learning techniques**
+🔥 Exploring **Generative AI** and **Large Language Models**  
+🛠️ Building **end-to-end ML pipelines** for real-world impact  
+📊 Mastering **data analytics** and **business intelligence**  
+🌐 Contributing to **open-source AI projects**  
+📚 Continuous learning in **advanced deep learning techniques**
 
 </div>
 
@@ -138,99 +138,118 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 [FMCG Supply Chain Analytics](https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project)
 
 Advanced analytics dashboard for solving supply chain challenges in the FMCG industry using data-driven insights and visualization.
 
-**Tech Stack:** `Power BI` `Data Analytics` `Business Intelligence` `Supply Chain Management`
+**Tech:** `Power BI` `Data Analytics` `Business Intelligence`
 
-**Key Features:**
-- 📈 Real-time supply chain KPI monitoring
-- 🔍 Root cause analysis of delivery issues
-- 📊 Interactive dashboards for decision-making
-- 🎯 Actionable insights for optimization
+**Highlights:**  
+📈 Real-time supply chain KPI monitoring  
+🔍 Root cause analysis of delivery issues  
+📊 Interactive dashboards for decision-making  
+🎯 Actionable insights for optimization
 
-[![GitHub Stars](https://img.shields.io/github/stars/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project)
+<a href="https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 [Hospital Management System](https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python)
 
 Comprehensive hospital administration platform featuring patient records, staff management, appointment scheduling, and integrated billing system.
 
-**Tech Stack:** `Python` `Tkinter` `SQL` `Database Management`
+**Tech:** `Python` `Tkinter` `SQL`
 
-**Key Features:**
-- 👥 Patient & staff record management
-- 📅 Appointment scheduling system
-- 💰 Automated billing & invoicing
-- 📊 Reports & analytics dashboard
+**Highlights:**  
+👥 Patient & staff record management  
+📅 Appointment scheduling system  
+💰 Automated billing & invoicing  
+📊 Reports & analytics dashboard
 
-[![GitHub Stars](https://img.shields.io/github/stars/AdithyaRaoK14/Hospital-Management-System-using-Python?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python)
+<a href="https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Hospital-Management-System-using-Python?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 [Library Management System](https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming)
 
 Feature-rich library management solution with book inventory tracking, member management, and automated fine calculation.
 
-**Tech Stack:** `C#` `.NET Framework` `SQL Server` `Windows Forms`
+**Tech:** `C#` `.NET` `SQL Server`
 
-**Key Features:**
-- 📖 Book cataloging & search functionality
-- 🔄 Borrow/return transaction management
-- ⚠️ Automated overdue notifications
-- 📊 Comprehensive reporting system
+**Highlights:**  
+📖 Book cataloging & search functionality  
+🔄 Borrow/return transaction management  
+⚠️ Automated overdue notifications  
+📊 Comprehensive reporting system
 
-[![GitHub Stars](https://img.shields.io/github/stars/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming)
+<a href="https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏢 [Resident Alert & Complaint Management](https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App)
+### 🏢 [Resident Alert & Complaint App](https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App)
 
 Mobile application empowering residential communities with real-time alerts, complaint tracking, and community engagement features.
 
-**Tech Stack:** `Java` `Android SDK` `Firebase` `Real-time Database` `Cloud Messaging`
+**Tech:** `Java` `Android` `Firebase`
 
-**Key Features:**
-- 🚨 Real-time emergency alerts
-- 📝 Digital complaint registration & tracking
-- 💬 Community discussion forum
-- 📱 Push notification system
+**Highlights:**  
+🚨 Real-time emergency alerts  
+📝 Digital complaint registration & tracking  
+💬 Community discussion forum  
+📱 Push notification system
 
-[![GitHub Stars](https://img.shields.io/github/stars/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App)
+<a href="https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
----
+</td>
+</tr>
 
-### 🎬 [Movie Review & Recommendation System](https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System)
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [Movie Review & Recommendation](https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System)
 
 Intelligent movie platform combining NLP-powered sentiment analysis with collaborative filtering for personalized recommendations.
 
-**Tech Stack:** `Python` `NLP` `Machine Learning` `Scikit-learn` `Pandas`
+**Tech:** `Python` `NLP` `Machine Learning`
 
-**Key Features:**
-- 🤖 Sentiment analysis of user reviews
-- 🎯 Personalized movie recommendations
-- ⭐ Rating prediction algorithm
-- 📊 Trend analysis & visualization
+**Highlights:**  
+🤖 Sentiment analysis of user reviews  
+🎯 Personalized movie recommendations  
+⭐ Rating prediction algorithm  
+📊 Trend analysis & visualization
 
-[![GitHub Stars](https://img.shields.io/github/stars/AdithyaRaoK14/Movie-Review-and-Recommendation-System?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System)
+<a href="https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Movie-Review-and-Recommendation-System?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🛡️ [SQL Injection Detection System](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models)
 
 Advanced cybersecurity solution leveraging machine learning to detect and prevent SQL injection attacks through comparative analysis.
 
-**Tech Stack:** `Python` `Random Forest` `SVM` `Hybrid ML Models` `Cybersecurity` `Feature Engineering`
+**Tech:** `Python` `Random Forest` `SVM`
 
-**Key Features:**
-- 🔍 Real-time injection pattern detection
-- 🧪 Comparative ML model analysis
-- 📈 High accuracy threat identification
-- 🔒 Enterprise-grade security framework
+**Highlights:**  
+🔍 Real-time injection pattern detection  
+🧪 Comparative ML model analysis  
+📈 High accuracy threat identification  
+🔒 Enterprise-grade security framework
 
-[![GitHub Stars](https://img.shields.io/github/stars/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models)
+<a href="https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models?style=for-the-badge&logo=github&color=00F7FF"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -238,7 +257,7 @@ Advanced cybersecurity solution leveraging machine learning to detect and preven
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Contribution Graph" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
@@ -257,39 +276,46 @@ Advanced cybersecurity solution leveraging machine learning to detect and preven
 
 ---
 
-## 💭 Dev Wisdom
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+## 💭 Dev Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
 ---
 
-## 📫 Let's Collaborate!
-
 <div align="center">
+
+## 📫 Let's Collaborate!
 
 ### 💼 Open for Opportunities & Collaborations
 
 I'm always excited to work on **innovative AI projects**, **open-source contributions**, and **impactful solutions**.  
 Let's build something extraordinary together! 🚀
 
-**💡 Interested in:**
-- AI/ML Research & Development
-- Full-Stack ML Engineering Roles
-- Open-Source AI Projects
-- Tech Consulting & Mentorship
+<br>
 
----
+### 💡 Interested In
 
-<img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+🔬 AI/ML Research & Development  
+⚙️ Full-Stack ML Engineering Roles  
+🌍 Open-Source AI Projects  
+🎓 Tech Consulting & Mentorship
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br><br>
 
 ### ⭐ If you find my work valuable, consider giving my repos a star!
 
 **Made with ❤️ and ☕ by Adithya**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontAlignY=65" width="100%" alt="Footer Wave Animation"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
