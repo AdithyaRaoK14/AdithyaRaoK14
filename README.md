@@ -264,10 +264,10 @@
  <!-- <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/> -->
 
 <!-- Option 3: With cache busting -->
-<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&cache_seconds=86400" alt="GitHub Trophies"/> 
+<!--<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&cache_seconds=86400" alt="GitHub Trophies"/> -->
 
 <!-- Option 4: Two rows layout (recommended if single row doesn't work) -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/> -->
+ <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/> 
 
 <!-- Option 5: Alternative styling -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/> -->
