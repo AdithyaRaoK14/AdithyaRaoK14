@@ -6,15 +6,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Adithya+Rao+Kalathur;Full+Stack+Developer+%7C+AI+Engineer;Software+Engineering+%2B+Data+Science;Building+Scalable+Systems;Creating+Intelligent+Solutions;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
-</div>
+<br><br>
 
----
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="400px" alt="Developer Animation"/>
+
+<br><br>
 
 ## 🚀 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ### 👨‍💻 **Adithya Rao Kalathur**
 
@@ -42,14 +40,7 @@
 📱 **Mobile Developer** crafting user experiences  
 ✨ *"Code is poetry, debugging is the art"*
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="90%" alt="Developer Animation"/>
-
-</td>
-</tr>
-</table>
+<br>
 
 ### 🎯 What I Do
 
@@ -71,6 +62,8 @@
 🔬 Contributing to **open-source projects**  
 📚 Deepening knowledge in **Advanced Algorithms**
 
+</div>
+
 ---
 
 ## 🛠️ Technology Stack
@@ -78,6 +71,8 @@
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -88,11 +83,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>🤖 AI/ML & Data Science</b></summary>
 <br>
+
+<div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -103,11 +102,15 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>🌐 Web Development & Frameworks</b></summary>
 <br>
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -117,11 +120,15 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>💾 Databases & Cloud</b></summary>
 <br>
+
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -130,21 +137,29 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>📱 Mobile & Desktop Development</b></summary>
 <br>
 
+<div align="center">
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
 
 </details>
 
 <details open>
 <summary><b>🛠️ Tools & Technologies</b></summary>
 <br>
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -154,6 +169,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 </details>
 
