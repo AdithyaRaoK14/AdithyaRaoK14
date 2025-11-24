@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 👨‍💻 **Adithya Rao Kalathur**
 
@@ -22,12 +22,16 @@
 🌟 **Passionate about AI & Generative AI**  
 📍 **Based in Udupi, Karnataka, India**
 
+<br>
+
 ### 🔗 Quick Links
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge)](https://adithyaraok14.github.io/)  
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221)  
 [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge)](https://github.com/AdithyaRaoK14)  
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:aditykr142@gmail.com)
+
+<br>
 
 ### 💫 Who Am I?
 
@@ -39,9 +43,9 @@
 ✨ *"Code is poetry, debugging is the art"*
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="100%" alt="Developer Animation"/>
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="90%" alt="Developer Animation"/>
 
 </td>
 </tr>
