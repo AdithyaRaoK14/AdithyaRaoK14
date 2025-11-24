@@ -257,7 +257,35 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+<!-- Option 1: Simplified with better compatibility -->
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
+<!-- Option 2: Without no-bg (more stable) -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/> -->
+
+<!-- Option 3: With cache busting -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&cache_seconds=86400" alt="GitHub Trophies"/> -->
+
+<!-- Option 4: Two rows layout (recommended if single row doesn't work) -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/> -->
+
+<!-- Option 5: Alternative styling -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/> -->
+
+</div>
+
+---
+
+## 🏅 Alternative: Achievement Badges
+
+<div align="center">
+
+<!-- If trophies still don't work, use these badges as backup -->
+
+![Stars](https://img.shields.io/badge/Total%20Stars-50+-gold?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-30+-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/AdithyaRaoK14?style=for-the-badge&logo=github&color=00F7FF)
+![Contributions](https://img.shields.io/badge/Contributions-2024-brightgreen?style=for-the-badge&logo=github)
 
 </div>
 
