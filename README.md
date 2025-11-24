@@ -12,29 +12,50 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Developer Animation" width="400" src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="left">
+### 👨‍💻 **Adithya Rao Kalathur**
+
+🎓 **Computer Science Student**  
+🌟 **Passionate about AI & Generative AI**  
+📍 **Based in Udupi, Karnataka, India**
+
+### 🔗 Quick Links
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge)](https://adithyaraok14.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221)  
+[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge)](https://github.com/AdithyaRaoK14)  
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:aditykr142@gmail.com)
 
 ### 💫 Who Am I?
 
-🎓 **Computer Science Student** passionate about solving real-world problems  
 💻 **Full-Stack Developer** building end-to-end applications  
 🤖 **AI/ML Engineer** creating intelligent systems  
-📊 **Data Analyst** transforming data into actionable insights  
-🔒 **Cybersecurity Enthusiast** researching security solutions  
-📱 **Mobile Developer** crafting seamless user experiences  
-✨ *"Code is poetry, debugging is the art of bringing it to life"*
+📊 **Data Analyst** transforming data into insights  
+🔒 **Cybersecurity Enthusiast** researching security  
+📱 **Mobile Developer** crafting user experiences  
+✨ *"Code is poetry, debugging is the art"*
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="100%" alt="Developer Animation"/>
+
+</td>
+</tr>
+</table>
 
 ### 🎯 What I Do
 
 🌐 Design & develop **full-stack web applications**  
-🤖 Build **AI/ML models** for practical applications  
+🤖 Build **AI/ML models** for real-world problems  
 📊 Create **data analytics dashboards** for business intelligence  
 🔐 Develop **security solutions** for enterprise systems  
 📱 Craft **mobile applications** for Android platforms  
 🛠️ Implement **database architectures** and optimize performance  
-☁️ Deploy applications on **cloud platforms** with CI/CD pipelines
+☁️ Deploy applications on **cloud platforms** with CI/CD
 
 ### 🔥 Current Focus
 
@@ -42,11 +63,7 @@
 ☁️ Learning **Cloud Architecture** and **DevOps practices**  
 📈 Mastering **System Design** for scalable applications  
 🔬 Contributing to **open-source projects**  
-📚 Deepening knowledge in **Advanced Algorithms** and **Data Structures**
-
-</div>
-
-<br clear="right"/>
+📚 Deepening knowledge in **Advanced Algorithms**
 
 ---
 
@@ -78,7 +95,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
 </details>
 
@@ -92,7 +109,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 
 </details>
 
@@ -166,38 +183,86 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [Hospital Management System](https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python)
+### 🔬 [Cancer Grading with Deep Learning](https://github.com/AdithyaRaoK14/Development-of-Deep-Learning-Approach-for-Grading-Squamous-Cell-Carcinoma-from-Histopathology-Images)
 
-Complete healthcare management platform with patient records, appointment scheduling, staff coordination, and integrated billing system.
+Deep learning approach for automated grading of squamous cell carcinoma from histopathology images using transfer learning.
 
-**Tech:** `Python` `Tkinter` `MySQL` `GUI Development`
+**Tech:** `Python` `EfficientNetB0` `TensorFlow` `Medical AI`
 
-**Key Features:**  
-👥 Patient & staff database management  
-📅 Smart appointment scheduling  
-💰 Automated billing & invoicing  
-📊 Real-time analytics dashboard  
-🔐 Role-based access control
+**Impact:** Automated cancer diagnosis with high accuracy
 
-<a href="https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Hospital-Management-System-using-Python?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Development-of-Deep-Learning-Approach-for-Grading-Squamous-Cell-Carcinoma-from-Histopathology-Images"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Development-of-Deep-Learning-Approach-for-Grading-Squamous-Cell-Carcinoma-from-Histopathology-Images?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Library Management System](https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming)
+### 🌙 [Night Vision Enhancement](https://github.com/AdithyaRaoK14/Enhancing-Night-Vision-Using-ML)
 
-Enterprise-grade library solution with book inventory tracking, member management, automated fine calculation, and comprehensive reporting.
+ML-powered night vision enhancement using U-Net and Residual U-Net architectures trained on multiple datasets for superior low-light image processing.
 
-**Tech:** `C#` `.NET Framework` `SQL Server` `Windows Forms`
+**Tech:** `Python` `U-Net` `Residual U-Net` `Computer Vision`
 
-**Key Features:**  
-📖 Advanced book cataloging system  
-🔍 Multi-parameter search functionality  
-🔄 Transaction management (issue/return)  
-⚠️ Automated overdue notifications  
-📈 Detailed analytics & reports
+**Impact:** Enhanced visibility in low-light conditions
 
-<a href="https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Enhancing-Night-Vision-Using-ML"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Enhancing-Night-Vision-Using-ML?style=for-the-badge&logo=github&color=00F7FF"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 [Network Anomaly Detection](https://github.com/AdithyaRaoK14/Network-Anomaly-Detection-Using-ML-Models)
+
+ML-based network intrusion detection using ensemble methods for binary and multiclass classification of network threats.
+
+**Tech:** `Random Forest` `XGBoost` `AdaBoost` `Decision Trees`
+
+**Impact:** Real-time network threat detection system
+
+<a href="https://github.com/AdithyaRaoK14/Network-Anomaly-Detection-Using-ML-Models"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Network-Anomaly-Detection-Using-ML-Models?style=for-the-badge&logo=github&color=00F7FF"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [SQL Injection Detection](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models)
+
+Comparative ML study for SQL injection detection using SVM, Random Forest, and hybrid models for enterprise security.
+
+**Tech:** `Python` `SVM` `Random Forest` `Cybersecurity`
+
+**Impact:** Enterprise-grade threat detection
+
+<a href="https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models?style=for-the-badge&logo=github&color=00F7FF"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [Books Scraper](https://github.com/AdithyaRaoK14/Books-To-Scrape-Web-Scraping-Project)
+
+Professional web scraping solution using Scrapy framework for automated book data extraction and analysis.
+
+**Tech:** `Python` `Scrapy` `Web Scraping` `Data Mining`
+
+**Impact:** Automated data collection pipeline
+
+<a href="https://github.com/AdithyaRaoK14/Books-To-Scrape-Web-Scraping-Project"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Books-To-Scrape-Web-Scraping-Project?style=for-the-badge&logo=github&color=00F7FF"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [Movie Recommendation System](https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System)
+
+NLP-powered movie platform with sentiment analysis and collaborative filtering for personalized recommendations.
+
+**Tech:** `Python` `NLP` `Machine Learning` `Scikit-learn`
+
+**Impact:** Personalized content discovery
+
+<a href="https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Movie-Review-and-Recommendation-System?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 </tr>
@@ -207,36 +272,26 @@ Enterprise-grade library solution with book inventory tracking, member managemen
 
 ### 📊 [FMCG Supply Chain Analytics](https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project)
 
-Advanced business intelligence dashboard providing data-driven insights to optimize supply chain operations in the FMCG industry.
+Business intelligence dashboard for supply chain optimization in FMCG industry with real-time KPI monitoring.
 
-**Tech:** `Power BI` `DAX` `Data Modeling` `Business Analytics`
+**Tech:** `Power BI` `DAX` `Data Analytics` `Business Intelligence`
 
-**Key Features:**  
-📈 Real-time KPI monitoring  
-🔍 Root cause analysis engine  
-📊 Interactive visual dashboards  
-🎯 Predictive analytics  
-💡 Actionable business insights
+**Impact:** Data-driven supply chain optimization
 
 <a href="https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 [Resident Alert & Complaint App](https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App)
+### 🏥 [Hospital Management System](https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python)
 
-Full-featured Android application empowering residential communities with emergency alerts, complaint tracking, and community engagement.
+Complete healthcare platform with patient records, appointment scheduling, and integrated billing system.
 
-**Tech:** `Java` `Android SDK` `Firebase` `Cloud Messaging`
+**Tech:** `Python` `Tkinter` `MySQL` `GUI Development`
 
-**Key Features:**  
-🚨 Real-time emergency broadcast  
-📝 Digital complaint management  
-💬 Community discussion forum  
-📱 Push notification system  
-🔔 Admin dashboard & analytics
+**Impact:** Streamlined hospital operations
 
-<a href="https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Hospital-Management-System-using-Python?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 </tr>
@@ -244,38 +299,28 @@ Full-featured Android application empowering residential communities with emerge
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Movie Review & Recommendation](https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System)
+### 📚 [Library Management System](https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming)
 
-Intelligent movie platform leveraging NLP for sentiment analysis and collaborative filtering algorithms for personalized recommendations.
+Enterprise library solution with book tracking, member management, and automated fine calculation.
 
-**Tech:** `Python` `NLP` `Machine Learning` `Scikit-learn`
+**Tech:** `C#` `.NET Framework` `SQL Server` `Windows Forms`
 
-**Key Features:**  
-🤖 Advanced sentiment analysis  
-🎯 Personalized recommendations  
-⭐ Rating prediction engine  
-📊 Trend analysis & visualization  
-🔍 Content-based filtering
+**Impact:** Efficient library operations
 
-<a href="https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Movie-Review-and-Recommendation-System?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [SQL Injection Detection System](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models)
+### 🏢 [Resident Alert & Complaint App](https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App)
 
-Research-driven cybersecurity solution using machine learning for real-time SQL injection attack detection and prevention.
+Android app for residential communities with emergency alerts and complaint tracking system.
 
-**Tech:** `Python` `Random Forest` `SVM` `Hybrid Models`
+**Tech:** `Java` `Android SDK` `Firebase` `Cloud Messaging`
 
-**Key Features:**  
-🔍 Pattern recognition algorithms  
-🧪 Comparative ML analysis  
-📈 High-accuracy threat detection  
-🔒 Enterprise security framework  
-⚡ Real-time monitoring
+**Impact:** Enhanced community management
 
-<a href="https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 </tr>
@@ -293,19 +338,18 @@ Research-driven cybersecurity solution using machine learning for real-time SQL 
 
 ---
 
-## 💼 What I Bring to the Table
+## 💼 Expertise Matrix
 
 <div align="center">
 
-| **Domain** | **Expertise** |
-|:---:|:---:|
-| 🌐 **Full-Stack Development** | End-to-end web application development with modern frameworks |
-| 🤖 **AI/ML Engineering** | Building and deploying intelligent systems and models |
-| 📊 **Data Analytics** | Transforming raw data into actionable business insights |
-| 🔐 **Cybersecurity** | Developing secure applications and threat detection systems |
-| 📱 **Mobile Development** | Creating seamless Android applications |
-| 🗄️ **Database Design** | Architecting scalable and optimized database systems |
-| ☁️ **Cloud & DevOps** | Deployment, scaling, and CI/CD pipeline implementation |
+| **Domain** | **Key Skills** | **Experience Level** |
+|:---:|:---:|:---:|
+| 🤖 **AI/ML Engineering** | Deep Learning • Computer Vision • NLP | ⭐⭐⭐⭐⭐ |
+| 🌐 **Full-Stack Development** | React • Node.js • Python • .NET | ⭐⭐⭐⭐⭐ |
+| 📊 **Data Science** | Analytics • Visualization • Power BI | ⭐⭐⭐⭐ |
+| 🔐 **Cybersecurity** | Threat Detection • ML Security | ⭐⭐⭐⭐ |
+| 📱 **Mobile Development** | Android • Firebase • Java | ⭐⭐⭐⭐ |
+| 🗄️ **Database Engineering** | SQL • NoSQL • Optimization | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -338,28 +382,28 @@ Research-driven cybersecurity solution using machine learning for real-time SQL 
 
 ## 📫 Open for Opportunities!
 
-### 💼 Let's Build Something Amazing Together
+### 💼 Let's Build Something Extraordinary
 
 I'm actively seeking opportunities to contribute to **innovative projects** and collaborate with **talented teams**.  
-Whether it's a challenging problem or an exciting idea, I'm ready to bring my skills to the table! 🚀
+Ready to bring expertise in **AI/ML, Full-Stack Development, and Data Science**! 🚀
 
 <br>
 
 ### 💡 What I'm Looking For
 
-🔬 **Full-Stack Development Roles** - Building scalable web applications  
-🤖 **AI/ML Engineering Positions** - Creating intelligent solutions  
-📊 **Data Science Opportunities** - Extracting insights from data  
-🌍 **Open-Source Collaborations** - Contributing to meaningful projects  
-🎓 **Mentorship & Learning** - Growing with experienced professionals
+🔬 **AI/ML Engineering Roles** → Building intelligent systems  
+💻 **Full-Stack Development Positions** → Scalable applications  
+📊 **Data Science Opportunities** → Data-driven solutions  
+🔐 **Cybersecurity Projects** → Secure systems  
+🌍 **Open-Source Collaborations** → Meaningful contributions
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+<img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br><br>
 
-### ⭐ If my work resonates with you, consider starring my repositories!
+### ⭐ If my work resonates with you, star my repositories!
 
 **Crafted with ❤️ and ☕ by Adithya Rao Kalathur**
 
