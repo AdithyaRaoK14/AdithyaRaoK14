@@ -255,9 +255,10 @@
 
 ## 🏆 Achievements & Recognition
 
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
