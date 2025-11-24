@@ -77,13 +77,39 @@
 ---
 
 # 🚧 Featured Projects  
-*(Optional — I can add fancy project cards with thumbnails if you want!)*
 
-- 🔬 **Cancer Grading CNN** – Multi-class histopathology classifier  
-- 👁️ **Eye Disease Detector (OCT)** – EfficientNet-based classifier  
-- 🎨 **AI Image Generator** – Custom fine-tuned Stable Diffusion  
-- 🤖 **Memory Chatbot** – LLM + FastAPI + vector DB  
-- 🧠 **DSA Visualizer** – Algorithm animations  
+### 🔹 **Hospital Management System (Python)**  
+A complete system for managing patients, staff, appointments and billing.  
+**Tech:** Python, Tkinter, SQL  
+🔗 https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python  
+
+---
+
+### 🔹 **Library Management System (C#)**  
+A Windows application for tracking books, users, borrow/return activity.  
+**Tech:** C#, .NET Framework, SQL  
+🔗 https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming  
+
+---
+
+### 🔹 **Resident Alert & Complaint Management Android App**  
+An Android platform where residents can submit complaints and alerts.  
+**Tech:** Java, Firebase  
+🔗 https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App  
+
+---
+
+### 🔹 **Movie Review & Recommendation System**  
+Sentiment analysis + ML-based movie recommender.  
+**Tech:** Python, NLP, ML  
+🔗 https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System  
+
+---
+
+### 🔹 **SQL Injection Detection using ML**  
+Comparative model evaluation using SVM, Random Forest, and Hybrid ML techniques.  
+**Tech:** Python, Cybersecurity, ML  
+🔗 https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models  
 
 ---
 
@@ -103,24 +129,32 @@
 
 ---
 
-# 💬 Quote I Live By
+# 💬 Random Dev Quote
 
-> *“Artificial Intelligence is not about replacing humans — it's about empowering them.”*  
-> — 🤖✨
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
+# 🪱 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+
+# 🌊 Footer Wave  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+# 👀 Neon Visitor Counter  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AdithyaRaoK14/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00FFFF" />
 </p>
 
 ---
+
 ⭐ *If you like my work, a star would make my day!* 😄
