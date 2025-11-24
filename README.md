@@ -10,7 +10,7 @@
 
 <!-- Glowing Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/glowdivider.gif" width="100%" />
+  <img src="https://github.com/AdithyaRaoK14/AdithyaRaoK14/blob/main/Neon%20Divider%20Line.png" />
 </p>
 
 ---
