@@ -1,91 +1,97 @@
-<!-- ========================== HEADER SECTION ========================== -->
+<!-- ========================== HEADER ========================== -->
+
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&height=70&lines=Hey+There!+👋;I'm+Adithya+Rao+Kalathur;AI+%7C+ML+Engineer;Deep+Learning+Explorer;Generative+AI+Enthusiast" />
+  </a>
+</h1>
+
+<img align="right" src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="260"/>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Computer Science student** passionate about building intelligent systems  
+- 🧠 Working with **Deep Learning**, **Computer Vision**, **NLP**, and **LLMs**  
+- 🚀 Exploring **MLOps**, **Model Optimization**, **RLHF**, and **Generative AI**  
+- 💡 Constantly experimenting & improving human-AI interaction  
+- ⚡ Fun fact: I *actually* enjoy debugging neural networks 😄  
+
+---
+
+# ⚒️ Tech Stack & Tools
+
+<details>
+<summary><h2>🧰 Languages & Tools</h2></summary>
+<br/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,java,html,css,js,react,mysql,postgres,git,github,linux,vscode,fastapi,docker&perline=12" />
+</p>
+
+</details>
+
+---
+
+# 🚀 GitHub Analytics
 
 <table width="100%">
 <tr>
-<td width="60%">
+<td width="50%" align="center">
 
-<h1>👋 Hey there, I'm <span style="color:#00FFFF;">Adithya Rao Kalathur</span></h1>
-
-<h3>🚀 AI & ML Enthusiast | Deep Learning Explorer | Tech Innovator</h3>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision+Explorer;Generative+AI+Learner;Always+building+cool+stuff+💡" />
-</p>
+### 📊 GitHub Stats  
+<a href="https://github.com/AdithyaRaoK14">
+<img src="https://github-readme-stats.vercel.app/api?username=AdithyaRaoK14&show_icons=true&theme=radical&hide_border=true" />
+</a>
 
 </td>
+<td width="50%" align="center">
 
-<td width="40%" align="right">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="260px" />
+### 🔥 Contribution Streak  
+<a href="https://github.com/AdithyaRaoK14">
+<img src="https://streak-stats.demolab.com?user=AdithyaRaoK14&theme=radical&hide_border=true" />
+</a>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧠 About Me
-- 🎓 Computer Science student passionate about **AI & Generative AI**
-- 🤖 Experienced in **Deep Learning**, **Computer Vision**, **NLP**, and **Model Deployment**
-- 🚀 Exploring **Model Optimization**, **Prompt Engineering**, **RLHF**, and **MLOps**
-- 🧠 Love experimenting with neural nets & improving AI-human interaction  
-- ⚡ Fun fact: I enjoy debugging machine learning models 🤓
-
----
-
-## 🛠️ Tech Stack & Tools
-
+### 🌐 Most Used Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,java,mysql,postgres,react,js,html,css,git,github,linux,vscode&perline=10" />
+<a href="https://github.com/AdithyaRaoK14">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaRaoK14&layout=compact&theme=radical&hide_border=true" height="200">
+</a>
 </p>
 
 ---
 
-## 📦 Featured Projects
-
-🎯 **AI / Deep Learning**
-- 🔍 **Oral Cancer Grading CNN Model** – Histopathology-based multi-class classifier  
-- 👁️ **Retina Disease Detector** – Eye OCT classification using EfficientNet  
-- 🎨 **AI Image Generator** – Stable Diffusion fine-tuned for custom dataset  
-- 🤖 **Chatbot w/ Memory** – LLM-powered conversational AI with vector store  
-
-🛠️ **Software / Tools**
-- ☁️ **End-to-End ML Pipeline** – Training → FastAPI → Docker → Cloud  
-- 📊 **Analytics Dashboard** – React + Flask + MongoDB  
-- 🧠 **DSA Visualizer** – Python animations for classic algorithms  
-
-*(Ask me if you want fancy project cards added!)*
-
----
-
-## 📊 GitHub Analytics
+# 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaRaoK14&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaRaoK14&layout=compact&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=radical&margin-w=10&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚧 Featured Projects  
+*(Optional — I can add fancy project cards with thumbnails if you want!)*
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdithyaRaoK14&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
-</p>
+- 🔬 **Cancer Grading CNN** – Multi-class histopathology classifier  
+- 👁️ **Eye Disease Detector (OCT)** – EfficientNet-based classifier  
+- 🎨 **AI Image Generator** – Custom fine-tuned Stable Diffusion  
+- 🤖 **Memory Chatbot** – LLM + FastAPI + vector DB  
+- 🧠 **DSA Visualizer** – Algorithm animations  
 
 ---
 
-## 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aditykr142@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -97,19 +103,24 @@
 
 ---
 
-## 💬 Quote I Live By
-> “Artificial Intelligence is not just about machines — it’s about augmenting human intelligence.” 🤖💡
+# 💬 Quote I Live By
+
+> *“Artificial Intelligence is not about replacing humans — it's about empowering them.”*  
+> — 🤖✨
 
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/output/github-contribution-grid-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AdithyaRaoK14/count.svg" />
 </p>
 
 ---
-
-⭐ *If you like my work, consider starring some repositories — it actually helps a lot!* 😄
+⭐ *If you like my work, a star would make my day!* 😄
