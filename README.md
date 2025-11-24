@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 👋 Welcome to My AI/ML Universe
+# 👋 Welcome to My Digital Workspace
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adithya+Rao+Kalathur;AI+%26+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Building+Intelligent+Systems;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Adithya+Rao+Kalathur;Full+Stack+Developer+%7C+AI+Engineer;Software+Engineering+%2B+Data+Science;Building+Scalable+Systems;Creating+Intelligent+Solutions;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 </div>
 
@@ -18,21 +18,31 @@
 
 ### 💫 Who Am I?
 
-🎓 **Computer Science Student** with a passion for cutting-edge AI  
-🧠 Specializing in **Deep Learning, Computer Vision, NLP & LLMs**  
-⚙️ Diving deep into **MLOps, RLHF & Model Optimization**  
-🚀 Building **AI systems that empower humanity**  
-💡 Transforming **innovative ideas** into **production-ready solutions**  
-🔬 Constantly **experimenting** with state-of-the-art architectures  
-✨ *"Debugging neural networks is my form of meditation"* 🧘‍♂️
+🎓 **Computer Science Student** passionate about solving real-world problems  
+💻 **Full-Stack Developer** building end-to-end applications  
+🤖 **AI/ML Engineer** creating intelligent systems  
+📊 **Data Analyst** transforming data into actionable insights  
+🔒 **Cybersecurity Enthusiast** researching security solutions  
+📱 **Mobile Developer** crafting seamless user experiences  
+✨ *"Code is poetry, debugging is the art of bringing it to life"*
 
-### 🎯 Current Focus
+### 🎯 What I Do
 
-🔥 Exploring **Generative AI** and **Large Language Models**  
-🛠️ Building **end-to-end ML pipelines** for real-world impact  
-📊 Mastering **data analytics** and **business intelligence**  
-🌐 Contributing to **open-source AI projects**  
-📚 Continuous learning in **advanced deep learning techniques**
+🌐 Design & develop **full-stack web applications**  
+🤖 Build **AI/ML models** for practical applications  
+📊 Create **data analytics dashboards** for business intelligence  
+🔐 Develop **security solutions** for enterprise systems  
+📱 Craft **mobile applications** for Android platforms  
+🛠️ Implement **database architectures** and optimize performance  
+☁️ Deploy applications on **cloud platforms** with CI/CD pipelines
+
+### 🔥 Current Focus
+
+🚀 Exploring **Generative AI** and **Large Language Models**  
+☁️ Learning **Cloud Architecture** and **DevOps practices**  
+📈 Mastering **System Design** for scalable applications  
+🔬 Contributing to **open-source projects**  
+📚 Deepening knowledge in **Advanced Algorithms** and **Data Structures**
 
 </div>
 
@@ -40,7 +50,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technology Stack
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -49,8 +59,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
@@ -66,7 +78,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 </details>
 
@@ -76,10 +88,11 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </details>
 
@@ -92,6 +105,17 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile & Desktop Development</b></summary>
+<br>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </details>
 
@@ -106,7 +130,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
@@ -116,21 +140,21 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaRaoK14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithyaRaoK14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=AdithyaRaoK14&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&dates=FFFFFF" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaRaoK14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaRaoK14&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaRaoK14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaRaoK14&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -142,36 +166,38 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [FMCG Supply Chain Analytics](https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project)
+### 🏥 [Hospital Management System](https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python)
 
-Advanced analytics dashboard for solving supply chain challenges in the FMCG industry using data-driven insights and visualization.
+Complete healthcare management platform with patient records, appointment scheduling, staff coordination, and integrated billing system.
 
-**Tech:** `Power BI` `Data Analytics` `Business Intelligence`
+**Tech:** `Python` `Tkinter` `MySQL` `GUI Development`
 
-**Highlights:**  
-📈 Real-time supply chain KPI monitoring  
-🔍 Root cause analysis of delivery issues  
-📊 Interactive dashboards for decision-making  
-🎯 Actionable insights for optimization
+**Key Features:**  
+👥 Patient & staff database management  
+📅 Smart appointment scheduling  
+💰 Automated billing & invoicing  
+📊 Real-time analytics dashboard  
+🔐 Role-based access control
 
-<a href="https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Hospital-Management-System-using-Python?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [Hospital Management System](https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python)
+### 📚 [Library Management System](https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming)
 
-Comprehensive hospital administration platform featuring patient records, staff management, appointment scheduling, and integrated billing system.
+Enterprise-grade library solution with book inventory tracking, member management, automated fine calculation, and comprehensive reporting.
 
-**Tech:** `Python` `Tkinter` `SQL`
+**Tech:** `C#` `.NET Framework` `SQL Server` `Windows Forms`
 
-**Highlights:**  
-👥 Patient & staff record management  
-📅 Appointment scheduling system  
-💰 Automated billing & invoicing  
-📊 Reports & analytics dashboard
+**Key Features:**  
+📖 Advanced book cataloging system  
+🔍 Multi-parameter search functionality  
+🔄 Transaction management (issue/return)  
+⚠️ Automated overdue notifications  
+📈 Detailed analytics & reports
 
-<a href="https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Hospital-Management-System-using-Python?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 </tr>
@@ -179,34 +205,36 @@ Comprehensive hospital administration platform featuring patient records, staff 
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [Library Management System](https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming)
+### 📊 [FMCG Supply Chain Analytics](https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project)
 
-Feature-rich library management solution with book inventory tracking, member management, and automated fine calculation.
+Advanced business intelligence dashboard providing data-driven insights to optimize supply chain operations in the FMCG industry.
 
-**Tech:** `C#` `.NET` `SQL Server`
+**Tech:** `Power BI` `DAX` `Data Modeling` `Business Analytics`
 
-**Highlights:**  
-📖 Book cataloging & search functionality  
-🔄 Borrow/return transaction management  
-⚠️ Automated overdue notifications  
-📊 Comprehensive reporting system
+**Key Features:**  
+📈 Real-time KPI monitoring  
+🔍 Root cause analysis engine  
+📊 Interactive visual dashboards  
+🎯 Predictive analytics  
+💡 Actionable business insights
 
-<a href="https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming?style=for-the-badge&logo=github&color=00F7FF"/></a>
+<a href="https://github.com/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain-Power-BI-Project?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 [Resident Alert & Complaint App](https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App)
 
-Mobile application empowering residential communities with real-time alerts, complaint tracking, and community engagement features.
+Full-featured Android application empowering residential communities with emergency alerts, complaint tracking, and community engagement.
 
-**Tech:** `Java` `Android` `Firebase`
+**Tech:** `Java` `Android SDK` `Firebase` `Cloud Messaging`
 
-**Highlights:**  
-🚨 Real-time emergency alerts  
-📝 Digital complaint registration & tracking  
+**Key Features:**  
+🚨 Real-time emergency broadcast  
+📝 Digital complaint management  
 💬 Community discussion forum  
-📱 Push notification system
+📱 Push notification system  
+🔔 Admin dashboard & analytics
 
 <a href="https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
@@ -218,15 +246,16 @@ Mobile application empowering residential communities with real-time alerts, com
 
 ### 🎬 [Movie Review & Recommendation](https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System)
 
-Intelligent movie platform combining NLP-powered sentiment analysis with collaborative filtering for personalized recommendations.
+Intelligent movie platform leveraging NLP for sentiment analysis and collaborative filtering algorithms for personalized recommendations.
 
-**Tech:** `Python` `NLP` `Machine Learning`
+**Tech:** `Python` `NLP` `Machine Learning` `Scikit-learn`
 
-**Highlights:**  
-🤖 Sentiment analysis of user reviews  
-🎯 Personalized movie recommendations  
-⭐ Rating prediction algorithm  
-📊 Trend analysis & visualization
+**Key Features:**  
+🤖 Advanced sentiment analysis  
+🎯 Personalized recommendations  
+⭐ Rating prediction engine  
+📊 Trend analysis & visualization  
+🔍 Content-based filtering
 
 <a href="https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Movie-Review-and-Recommendation-System?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
@@ -235,15 +264,16 @@ Intelligent movie platform combining NLP-powered sentiment analysis with collabo
 
 ### 🛡️ [SQL Injection Detection System](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models)
 
-Advanced cybersecurity solution leveraging machine learning to detect and prevent SQL injection attacks through comparative analysis.
+Research-driven cybersecurity solution using machine learning for real-time SQL injection attack detection and prevention.
 
-**Tech:** `Python` `Random Forest` `SVM`
+**Tech:** `Python` `Random Forest` `SVM` `Hybrid Models`
 
-**Highlights:**  
-🔍 Real-time injection pattern detection  
-🧪 Comparative ML model analysis  
-📈 High accuracy threat identification  
-🔒 Enterprise-grade security framework
+**Key Features:**  
+🔍 Pattern recognition algorithms  
+🧪 Comparative ML analysis  
+📈 High-accuracy threat detection  
+🔒 Enterprise security framework  
+⚡ Real-time monitoring
 
 <a href="https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models"><img src="https://img.shields.io/github/stars/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models?style=for-the-badge&logo=github&color=00F7FF"/></a>
 
@@ -257,7 +287,25 @@ Advanced cybersecurity solution leveraging machine learning to detect and preven
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 💼 What I Bring to the Table
+
+<div align="center">
+
+| **Domain** | **Expertise** |
+|:---:|:---:|
+| 🌐 **Full-Stack Development** | End-to-end web application development with modern frameworks |
+| 🤖 **AI/ML Engineering** | Building and deploying intelligent systems and models |
+| 📊 **Data Analytics** | Transforming raw data into actionable business insights |
+| 🔐 **Cybersecurity** | Developing secure applications and threat detection systems |
+| 📱 **Mobile Development** | Creating seamless Android applications |
+| 🗄️ **Database Design** | Architecting scalable and optimized database systems |
+| ☁️ **Cloud & DevOps** | Deployment, scaling, and CI/CD pipeline implementation |
 
 </div>
 
@@ -268,8 +316,8 @@ Advanced cybersecurity solution leveraging machine learning to detect and preven
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditykr142@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adithyaraok14.github.io/)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditykr142@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adithyaraok14.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithyaRaoK14)
 
 </div>
@@ -278,9 +326,9 @@ Advanced cybersecurity solution leveraging machine learning to detect and preven
 
 <div align="center">
 
-## 💭 Dev Wisdom
+## 💭 Developer Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 
 </div>
 
@@ -288,31 +336,34 @@ Advanced cybersecurity solution leveraging machine learning to detect and preven
 
 <div align="center">
 
-## 📫 Let's Collaborate!
+## 📫 Open for Opportunities!
 
-### 💼 Open for Opportunities & Collaborations
+### 💼 Let's Build Something Amazing Together
 
-I'm always excited to work on **innovative AI projects**, **open-source contributions**, and **impactful solutions**.  
-Let's build something extraordinary together! 🚀
-
-<br>
-
-### 💡 Interested In
-
-🔬 AI/ML Research & Development  
-⚙️ Full-Stack ML Engineering Roles  
-🌍 Open-Source AI Projects  
-🎓 Tech Consulting & Mentorship
+I'm actively seeking opportunities to contribute to **innovative projects** and collaborate with **talented teams**.  
+Whether it's a challenging problem or an exciting idea, I'm ready to bring my skills to the table! 🚀
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS" alt="Profile Views" />
+### 💡 What I'm Looking For
+
+🔬 **Full-Stack Development Roles** - Building scalable web applications  
+🤖 **AI/ML Engineering Positions** - Creating intelligent solutions  
+📊 **Data Science Opportunities** - Extracting insights from data  
+🌍 **Open-Source Collaborations** - Contributing to meaningful projects  
+🎓 **Mentorship & Learning** - Growing with experienced professionals
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 
 <br><br>
 
-### ⭐ If you find my work valuable, consider giving my repos a star!
+### ⭐ If my work resonates with you, consider starring my repositories!
 
-**Made with ❤️ and ☕ by Adithya**
+**Crafted with ❤️ and ☕ by Adithya Rao Kalathur**
+
+*"In a world of algorithms, be the one who codes with purpose"*
 
 <br>
 
