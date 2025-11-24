@@ -29,7 +29,15 @@
 [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge)](https://github.com/AdithyaRaoK14)  
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:aditykr142@gmail.com)
 
+</div>
+
 <br>
+
+---
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 💫 Who Am I?
 
@@ -38,9 +46,11 @@
 📊 **Data Analyst** transforming data into insights  
 🔒 **Cybersecurity Enthusiast** researching security  
 📱 **Mobile Developer** crafting user experiences  
+
 ✨ *"Code is poetry, debugging is the art"*
 
-<br>
+</td>
+<td width="33%" valign="top">
 
 ### 🎯 What I Do
 
@@ -52,7 +62,8 @@
 🛠️ Implement **database architectures** and optimize performance  
 ☁️ Deploy applications on **cloud platforms** with CI/CD
 
-<br>
+</td>
+<td width="33%" valign="top">
 
 ### 🔥 Current Focus
 
@@ -62,7 +73,9 @@
 🔬 Contributing to **open-source projects**  
 📚 Deepening knowledge in **Advanced Algorithms**
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -173,6 +186,61 @@
 </div>
 
 </details>
+
+---
+
+## 📜 Certifications & Continuous Learning
+
+<div align="center">
+
+<a href="https://github.com/AdithyaRaoK14/AdithyaRaoK14-Adithya-Rao-Kalathur-Online-Course-Certifications">
+<img src="https://img.shields.io/badge/🎓_View_All_Certifications-00D9FF?style=for-the-badge" alt="View Certifications"/>
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ☁️ Cloud & DevOps
+- **Azure GitHub - Code to Cloud Workshop** (Microsoft)
+- **Microsoft GitHub Foundations** (Microsoft)
+
+### 🔐 Cybersecurity
+- **Cybersecurity** (Google)
+- **Cybersecurity** (IBM)
+- **Basics in IoT Security Course**
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Data Science & Analytics
+- **Data Analytics** (Google)
+- **Data Science** (IBM)
+- **Big Data** (San Diego)
+
+### 🤖 AI & Machine Learning
+- **Generative AI with Large LLMs** (DeepLearning.AI)
+
+</td>
+<td width="33%" valign="top">
+
+### 🐧 Operating Systems
+- **Linux Fundamentals** (LearnQuest)
+
+### 📚 Additional Certifications
+*Continuously expanding knowledge in emerging technologies and industry best practices*
+
+<br>
+
+📂 **[Certificate Repository →](https://github.com/AdithyaRaoK14/AdithyaRaoK14-Adithya-Rao-Kalathur-Online-Course-Certifications)**
+
+</td>
+</tr>
+</table>
 
 ---
 
