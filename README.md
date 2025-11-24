@@ -258,7 +258,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&rank=SSS,SS,S,AAA,AA,A&row=1&column=-1&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
