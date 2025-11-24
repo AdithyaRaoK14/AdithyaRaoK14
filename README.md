@@ -24,10 +24,7 @@
 
 ### 🔗 Quick Links
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge)](https://adithyaraok14.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221)  
-[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge)](https://github.com/AdithyaRaoK14)  
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:aditykr142@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge)](https://adithyaraok14.github.io/) [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221) [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge)](https://github.com/AdithyaRaoK14) [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:aditykr142@gmail.com)
 
 </div>
 
@@ -199,8 +196,6 @@
 
 </div>
 
-<br>
-
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -231,8 +226,8 @@
 ### 🐧 Operating Systems
 - **Linux Fundamentals** (LearnQuest)
 
-### 📚 Additional Certifications
-*Continuously expanding knowledge in emerging technologies and industry best practices*
+### 📚 Continuous Learning
+*Expanding knowledge in emerging technologies and industry best practices*
 
 <br>
 
