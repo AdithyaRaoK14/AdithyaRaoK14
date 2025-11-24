@@ -258,7 +258,7 @@
 
 <div align="center">
 
-<img src="https://ghproxy.net/https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
 
 </div>
 
