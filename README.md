@@ -61,6 +61,8 @@
 🛠️ Implement **database architectures** and optimize performance  
 ☁️ Deploy applications on **cloud platforms** with CI/CD
 
+<br>
+
 ### 🔥 Current Focus
 
 🚀 Exploring **Generative AI** and **Large Language Models**  
