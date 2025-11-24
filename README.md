@@ -1,6 +1,6 @@
 <!-- ========================== HEADER & BANNER ========================== -->
 <p align="center">
-  <img src="/mnt/data/Developer.gif" width="60%" alt="Banner GIF" />
+  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="60%" alt="Banner GIF" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Adithya Rao Kalathur</span></h1>
