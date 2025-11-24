@@ -1,181 +1,210 @@
 <!-- ========================== HEADER ========================== -->
 
-<table width="100%">
-<tr>
-<td>
+<div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=2400&pause=600&color=00F7FF&width=500&height=70&lines=Adithya+Rao+Kalathur;AI+%7C+ML+Engineer;Deep+Learning+%26+GenAI+Explorer" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=2400&pause=600&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=Adithya+Rao+Kalathur;AI+%7C+ML+Engineer;Deep+Learning+%26+GenAI+Explorer;Building+Intelligent+Systems" alt="Typing SVG" />
 
-</td>
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="280" alt="Developer Animation"/>
 
-<td align="right" width="250">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Developer.gif" width="220"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,github&theme=light" height="50" alt="Quick Skills"/>
 
-  <!-- small icons beside GIF -->
-  <p align="right">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,github&theme=light" height="40"/>
-  </p>
+</div>
 
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
 
----
+## 🔷 About Me
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/blue_neon_divider.png" width="100%" />
-</p>
+```yaml
+name: Adithya Rao Kalathur
+role: AI/ML Engineer & CS Student
+focus: Deep Learning • Computer Vision • NLP • LLMs
+passion: Building AI systems that empower humans
+motto: "Debugging neural networks feels like meditation 🧘‍♂️"
+```
 
----
+- 🎓 **Computer Science Student** passionate about intelligent systems
+- 🧠 Deep expertise in **Deep Learning, Computer Vision, NLP & Large Language Models**
+- ⚙️ Exploring **MLOps, RLHF, Model Optimization & Deployment**
+- 🚀 Committed to creating **real-world AI applications** that make a difference
+- 💡 Transforming innovative ideas into production-ready ML solutions
+- 🔬 Constantly experimenting with cutting-edge AI architectures
 
-# 🔷 About Me
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
 
-- 🎓 **CS student** building intelligent AI systems  
-- 🧠 Working with **Deep Learning, CV, NLP & LLMs**  
-- ⚙️ Exploring **MLOps, RLHF, Model Optimization**  
-- 🚀 Passionate about AI that **empowers humans**  
-- 💡 Turning ideas into real-world ML applications  
-- ✨ Debugging neural networks feels like meditation 😄  
+## 🛠️ Tech Stack & Tools
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/blue_neon_divider.png" width="100%" />
-</p>
-
----
-
-# 🛠 Tech Stack & Tools
-
-<details>
-<summary><h3>Click to view full skillset</h3></summary>
+<details open>
+<summary><b>🔧 Core Technologies</b></summary>
 <br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,java,html,css,js,react,mysql,postgres,git,github,linux,vscode,fastapi,docker&perline=12" />
+**Languages & Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&perline=8" alt="Languages"/>
+</p>
+
+**AI/ML & Data Science**
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" alt="AI/ML"/>
+</p>
+
+**Web & Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express&perline=8" alt="Web"/>
+</p>
+
+**Databases & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker&perline=8" alt="Databases"/>
+</p>
+
+**Tools & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&perline=8" alt="Tools"/>
 </p>
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/blue_neon_divider.png" width="100%" />
-</p>
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-# 📊 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=AdithyaRaoK14&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=AdithyaRaoK14&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="49%" alt="GitHub Streak"/>
 
-<table width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaRaoK14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaRaoK14&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="49%" alt="Contribution Graph"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
-<td align="center">
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdithyaRaoK14&show_icons=true&theme=radical&hide_border=true"/>
+### 🏥 [Hospital Management System](https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python)
+
+Comprehensive hospital administration system with patient management, staff coordination, and billing.
+
+**Tech:** `Python` `Tkinter` `SQL` `Database Management`
+
+<img src="https://img.shields.io/github/stars/AdithyaRaoK14/Hospital-Management-System-using-Python?style=for-the-badge&logo=github&color=00F7FF" alt="Stars"/>
 
 </td>
-<td align="center">
+<td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=AdithyaRaoK14&theme=radical&hide_border=true"/>
+### 📚 [Library Management System](https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming)
+
+Robust library system for tracking books, managing users, and handling borrow/return operations.
+
+**Tech:** `C#` `.NET` `SQL Server` `Windows Forms`
+
+<img src="https://img.shields.io/github/stars/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming?style=for-the-badge&logo=github&color=00F7FF" alt="Stars"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏢 [Resident Alert & Complaint App](https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App)
+
+Mobile app for residential communities to manage complaints and broadcast important alerts.
+
+**Tech:** `Java` `Android` `Firebase` `Real-time Database`
+
+<img src="https://img.shields.io/github/stars/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App?style=for-the-badge&logo=github&color=00F7FF" alt="Stars"/>
+
+</td>
+<td width="50%">
+
+### 🎬 [Movie Review & Recommendation](https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System)
+
+AI-powered system combining sentiment analysis with personalized movie recommendations.
+
+**Tech:** `Python` `NLP` `Machine Learning` `Scikit-learn`
+
+<img src="https://img.shields.io/github/stars/AdithyaRaoK14/Movie-Review-and-Recommendation-System?style=for-the-badge&logo=github&color=00F7FF" alt="Stars"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" colspan="2">
+
+### 🛡️ [SQL Injection Detection System](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models)
+
+Machine learning models for detecting SQL injection patterns using comparative analysis of SVM, Random Forest, and Hybrid approaches.
+
+**Tech:** `Python` `Random Forest` `SVM` `Hybrid ML Models` `Cybersecurity`
+
+<img src="https://img.shields.io/github/stars/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models?style=for-the-badge&logo=github&color=00F7FF" alt="Stars"/>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaRaoK14&layout=compact&theme=radical&hide_border=true" height="200"/>
-</p>
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00A2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221)
+[![Email](https://img.shields.io/badge/Email-Contact-FF3B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditykr142@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00E0FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adithyaraok14.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithyaRaoK14)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_border=00F7FF" alt="Random Dev Quote"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/Neon%20Divider%20Line.png" width="100%" alt="Neon Divider"/>
+
+<div align="center">
+
+### 💼 Open for Collaborations & Opportunities
+
+*Building the future, one model at a time* 🚀
+
+<img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/blue_neon_divider.png" width="100%" />
-</p>
+**✨ If you find my work interesting, a ⭐ on my repos would be awesome! ⚡**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave"/>
 
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdithyaRaoK14&margin-w=10&no-frame=true&no-bg=true&theme=dracula"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/blue_neon_divider.png" width="100%" />
-</p>
-
----
-
-# 🚧 Featured Projects
-
-### 🔹 Hospital Management System  
-💊 Full hospital admin (patients, staff, billing)  
-🛠 Python • Tkinter • SQL  
-🔗 https://github.com/AdithyaRaoK14/Hospital-Management-System-using-Python  
-
----
-
-### 🔹 Library Management System  
-📚 Track books, borrow/return, users  
-🛠 C# • .NET • SQL  
-🔗 https://github.com/AdithyaRaoK14/Library-Management-System-using-c-sharp-programming  
-
----
-
-### 🔹 Resident Alert & Complaint App  
-🏢 Complaint & alert system for societies  
-🛠 Java • Firebase  
-🔗 https://github.com/AdithyaRaoK14/Resident-Alert-and-Complaint-Management-System-Android-App  
-
----
-
-### 🔹 Movie Review & Recommendation System  
-🎬 Sentiment analysis + movie recommendations  
-🛠 Python • NLP • ML  
-🔗 https://github.com/AdithyaRaoK14/Movie-Review-and-Recommendation-System  
-
----
-
-### 🔹 SQL Injection Detection  
-🛡 ML models to detect injection patterns  
-🛠 Python • RF • SVM • Hybrid ML  
-🔗 https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdithyaRaoK14/AdithyaRaoK14/main/blue_neon_divider.png" width="100%" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221"><img src="https://img.shields.io/badge/LinkedIn-00A2FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aditykr142@gmail.com"><img src="https://img.shields.io/badge/Email-FF3B30?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://adithyaraok14.github.io/"><img src="https://img.shields.io/badge/Portfolio-00E0FF?style=for-the-badge&logo=githubpages&logoColor=black"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=110&section=footer&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdithyaRaoK14&style=for-the-badge&color=00E0FF"/>
-</p>
-
-<p align="center">✨ If you like my work, a ⭐ means a lot! ⚡</p>
+</div>
