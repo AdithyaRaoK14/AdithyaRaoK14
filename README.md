@@ -136,11 +136,11 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaRaoK14&theme=radical" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AdithyaRaoK14&theme=tokyonight&hide_border=true&background=07090B&ring=f0a500&fire=f0a500&currStreakLabel=f0a500&dates=9ba3ae" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaRaoK14&theme=2077" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AdithyaRaoK14&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&dates=9ba3ae&sideNums=ffffff&sideLabels=9ba3ae" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaRaoK14&layout=compact&theme=tokyonight&hide_border=true&bg_color=07090B&title_color=f0a500&text_color=f0ece4&langs_count=8&hide=jupyter%20notebook" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaRaoK14&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=AdithyaRaoK14&theme=2077" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaRaoK14&theme=2077" />
 
 </div>
 
