@@ -137,9 +137,9 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdithyaRaoK14&theme=2077" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AdithyaRaoK14&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&dates=9ba3ae&sideNums=ffffff&sideLabels=9ba3ae" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AdithyaRaoK14&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakNum=ffffff&currStreakLabel=0ea5e9&dates=9ba3ae&sideNums=ffffff&sideLabels=9ba3ae" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=AdithyaRaoK14&theme=2077" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdithyaRaoK14&theme=2077" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdithyaRaoK14&theme=2077" />
 
 </div>
