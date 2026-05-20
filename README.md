@@ -154,8 +154,8 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 | Google Cybersecurity Professional | Coursera | 2024 |
 | Google Data Analytics Professional | Coursera | 2024 |
 | IBM Data Science Professional | Coursera | 2024 |
-| Big Data Specialization | UC San Diego · Coursera | — |
-| Azure GitHub Workshop | Microsoft | — |
+| Big Data Specialization | UC San Diego · Coursera | 2024 |
+| Azure GitHub Workshop | Microsoft | 2025 |
 
 [![View All](https://img.shields.io/badge/View_All_Certificates-f0a500?style=for-the-badge&logo=coursera&logoColor=07090B)](https://github.com/AdithyaRaoK14/AdithyaRaoK14-Adithya-Rao-Kalathur-Online-Course-Certifications)
 
