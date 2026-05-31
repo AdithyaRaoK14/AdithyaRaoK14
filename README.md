@@ -4,7 +4,7 @@
 
 # Adithya Rao Kalathur
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+Agentic+AI+Systems+Builder;RAG+%26+LLM+Specialist+%7C+Production+MLOps;Deep+Learning+Researcher+%7C+Published+Author" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+Agentic+AI+Systems+Builder;RAG+%26+LLM+Specialist+%7C+Production+MLOps;Full-Stack+AI+%7C+FastAPI+%2B+React+%2B+Docker;Deep+Learning+Researcher+%7C+Published+Author" alt="Typing SVG" />
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ## About
 
-I build **agentic AI systems**, **retrieval architectures**, and scalable ML pipelines. My latest project — **CodeIntel-RAG** — is a self-hosted agentic platform for natural-language querying over codebases, achieving a **Hit@5 of 1.00** on a 25-query benchmark.
+I build **agentic AI systems**, **retrieval architectures**, and scalable ML pipelines. My latest projects include **CodeIntel-RAG** — a self-hosted agentic platform for natural-language querying over codebases achieving a **Hit@5 of 1.00** on a 25-query benchmark — and **CineMatch**, a full-stack AI movie recommendation platform combining collaborative filtering, content-based similarity, and Ollama-powered natural-language search across 16K+ movies.
 
 I'm also a **published first author**: my book chapter on SQL injection detection (hybrid SVM-RF + BiLSTM, 97.84% accuracy) was published by **Taylor & Francis / CRC Press** and presented at **ICCIDC 2025, Bali, Indonesia**.
 
@@ -104,6 +104,10 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -113,12 +117,15 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Data & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-0ea5e9?style=flat-square&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
+![TruncatedSVD](https://img.shields.io/badge/TruncatedSVD_(Collab._Filtering)-0ea5e9?style=flat-square&logoColor=white)
 
 ---
 
@@ -127,6 +134,7 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 | Project | Description | Key Result |
 |:---|:---|:---|
 | [**CodeIntel-RAG**](https://github.com/AdithyaRaoK14/CodeIntel-RAG-Agentic-Code-Intelligence-Platform) | Agentic codebase Q&A with hybrid retrieval + MCP server | Hit@5: 1.00 · MRR: 0.845 |
+| [**CineMatch**](https://github.com/AdithyaRaoK14/cinematch-ai-movie-recommendation-system) | Full-stack hybrid movie recommendation — TruncatedSVD + content-based + Ollama NL search | 16K+ movies · Docker CI |
 | [**End-to-End ML Pipeline**](https://github.com/AdithyaRaoK14/End-to-End-ML-Pipeline-with-MLflow) | Credit card fraud detection with MLflow, SHAP & drift detection | Recall: 86.73% · ROC-AUC: 0.9797 |
 | [**DataPilot**](https://github.com/AdithyaRaoK14/DataPilot-Local-AI-Data-Analyst-Agent) | Local LangGraph ReAct agent for autonomous data analysis & SQL | 136 tests · 89% coverage |
 | [**SCC Histopathology Grading**](https://github.com/AdithyaRaoK14/SCC-Histopathology-Grading) | 3-class cancer grading with Grad-CAM interpretability | ROC-AUC: 0.93 · Acc: 89.15% |
@@ -157,6 +165,10 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 
 | Certification | Issuer | Year |
 |:---|:---|:---|
+| Deep Learning Specialization | DeepLearning.AI | 2026 |
+| Machine Learning in Production | DeepLearning.AI | 2026 |
+| PyTorch for Deep Learning Professional Certificate | DeepLearning.AI | 2026 |
+| Retrieval Augmented Generation (RAG) | DeepLearning.AI | 2026 |
 | Generative AI with Large Language Models | DeepLearning.AI | 2025 |
 | Azure GitHub Workshop | Microsoft | 2025 |
 | Google Cybersecurity Professional | Coursera | 2024 |
