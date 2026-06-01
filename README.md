@@ -65,7 +65,7 @@ I'm also a **published first author**: my book chapter on SQL injection detectio
 📘 *Taylor & Francis / CRC Press — ISBN: 9781003773504 · October 2025*
 🌍 *Presented at ICCIDC 2025, Bali, Indonesia*
 
-Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequence-based NLP threat detection.
+Hybrid SVM-RF ensemble on **30,920** labeled SQL queries; BiLSTM separately benchmarked for sequence-based NLP threat detection.
 
 `Accuracy: 97.84%` · `Precision: 98.09%` · `Recall: 97.57%` · `BiLSTM: 98.75%`
 
@@ -97,6 +97,8 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logoColor=black)
 ![Optuna](https://img.shields.io/badge/Optuna-0ea5e9?style=flat-square&logoColor=white)
 ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-0ea5e9?style=flat-square&logoColor=white)
+![timm](https://img.shields.io/badge/timm-0ea5e9?style=flat-square&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-0ea5e9?style=flat-square&logoColor=white)
 
 **MLOps & Infrastructure**
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -105,6 +107,8 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -134,10 +138,11 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries + BiLSTM model for sequ
 | Project | Description | Key Result |
 |:---|:---|:---|
 | [**CodeIntel-RAG**](https://github.com/AdithyaRaoK14/CodeIntel-RAG-Agentic-Code-Intelligence-Platform) | Agentic codebase Q&A with hybrid retrieval + MCP server | Hit@5: 1.00 · MRR: 0.845 |
+| [**Microservice Traffic Mgmt Platform**](https://github.com/AdithyaRaoK14/Microservice-Traffic-Management-Platform) | API gateway with JWT auth, Redis rate limiting, RBAC & React analytics dashboard | 28 tests · GitHub Actions CI |
 | [**CineMatch**](https://github.com/AdithyaRaoK14/cinematch-ai-movie-recommendation-system) | Full-stack hybrid movie recommendation — TruncatedSVD + content-based + Ollama NL search | 16K+ movies · Docker CI |
 | [**End-to-End ML Pipeline**](https://github.com/AdithyaRaoK14/End-to-End-ML-Pipeline-with-MLflow) | Credit card fraud detection with MLflow, SHAP & drift detection | Recall: 86.73% · ROC-AUC: 0.9797 |
 | [**DataPilot**](https://github.com/AdithyaRaoK14/DataPilot-Local-AI-Data-Analyst-Agent) | Local LangGraph ReAct agent for autonomous data analysis & SQL | 136 tests · 89% coverage |
-| [**SCC Histopathology Grading**](https://github.com/AdithyaRaoK14/SCC-Histopathology-Grading) | 3-class cancer grading with Grad-CAM interpretability | ROC-AUC: 0.93 · Acc: 89.15% |
+| [**SCC Histopathology Grading**](https://github.com/AdithyaRaoK14/SCC-Histopathology-Grading) | 3-class cancer grading with Grad-CAM interpretability | 99.72% acc (binary) · ROC-AUC: 0.93 |
 | [**Lung Cancer Classification**](https://github.com/AdithyaRaoK14/Lung-Cancer-Subtype-Classification) | InceptionV3 + EfficientNet-B0 transfer learning | Accuracy: 96.5% · F1: 0.94 |
 | [**Night Vision Enhancement**](https://github.com/AdithyaRaoK14/Enhancing-Night-Vision-Using-ML) | Dual U-Net pipeline on 40K+ image pairs | PSNR: 18.84 dB · SSIM: 0.71 |
 | [**SQL Injection Detection**](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models) ⬡ *Published* | SVM-RF hybrid + BiLSTM on 30K queries | Accuracy: 97.84% |
