@@ -4,7 +4,7 @@
 
 # Adithya Rao Kalathur
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+Agentic+AI+Systems+Builder;RAG+%26+LLM+Specialist+%7C+Production+MLOps;Full-Stack+AI+%7C+FastAPI+%2B+React+%2B+Docker;Deep+Learning+Researcher+%7C+Published+Author" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=ML+Engineer+%7C+Agentic+AI+Systems+Builder;RAG+%26+LLM+Specialist+%7C+Production+MLOps;Backend+Systems+%7C+Distributed+%26+Real-Time;Full-Stack+AI+%7C+FastAPI+%2B+React+%2B+Docker;Deep+Learning+Researcher+%7C+Published+Author" alt="Typing SVG" />
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ## About
 
-I build **agentic AI systems**, **retrieval architectures**, and scalable ML pipelines. My latest projects include **CodeIntel-RAG** — a self-hosted agentic platform for natural-language querying over codebases achieving a **Hit@5 of 1.00** on a 25-query benchmark — and **CineMatch**, a full-stack AI movie recommendation platform combining collaborative filtering, content-based similarity, and Ollama-powered natural-language search across 16K+ movies.
+I build **agentic AI systems**, **retrieval architectures**, scalable ML pipelines, and **production backend systems**. My latest projects include **CodeIntel-RAG** — a self-hosted agentic platform for natural-language querying over codebases achieving a **Hit@5 of 1.00** on a 25-query benchmark — and three production-grade backend systems: **Auth Service** (self-hosted auth microservice with JWT rotation, RBAC & audit logs), **Distributed Job Processing Platform** (Redis priority queues, heartbeat workers, ~100 jobs/sec throughput), and **CollabSpace** (real-time collaborative editor + whiteboard with WebSockets + Redis Pub/Sub for horizontal scaling).
 
 I'm also a **published first author**: my book chapter on SQL injection detection (hybrid SVM-RF + BiLSTM, 97.84% accuracy) was published by **Taylor & Francis / CRC Press** and presented at **ICCIDC 2025, Bali, Indonesia**.
 
@@ -112,6 +112,10 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries; BiLSTM separately benc
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0ea5e9?style=flat-square&logoColor=white)
+![Redis Pub/Sub](https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?style=flat-square&logo=redis&logoColor=white)
+![asyncpg](https://img.shields.io/badge/asyncpg-316192?style=flat-square&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -138,6 +142,9 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries; BiLSTM separately benc
 | Project | Description | Key Result |
 |:---|:---|:---|
 | [**CodeIntel-RAG**](https://github.com/AdithyaRaoK14/CodeIntel-RAG-Agentic-Code-Intelligence-Platform) | Agentic codebase Q&A with hybrid retrieval + MCP server | Hit@5: 1.00 · MRR: 0.845 |
+| [**Auth Service**](https://github.com/AdithyaRaoK14/Auth-Service) | Self-hosted auth microservice — JWT rotation, token family reuse detection, RBAC, audit logs, React dashboard | 71 tests · 26 endpoints |
+| [**Distributed Job Processing Platform**](https://github.com/AdithyaRaoK14/Distributed-Job-Processing-Platform) | Redis priority queue with heartbeat workers, retries, DLQ, idempotency keys & real-time React dashboard | ~100 jobs/sec · 43 tests |
+| [**CollabSpace**](https://github.com/AdithyaRaoK14/CollabSpace-Real-time-collaborative-editor-and-whiteboard) | Real-time collaborative editor + whiteboard; WebSockets + Redis Pub/Sub for horizontal scaling | Docker CI · presence tracking |
 | [**Microservice Traffic Mgmt Platform**](https://github.com/AdithyaRaoK14/Microservice-Traffic-Management-Platform) | API gateway with JWT auth, Redis rate limiting, RBAC & React analytics dashboard | 28 tests · GitHub Actions CI |
 | [**CineMatch**](https://github.com/AdithyaRaoK14/cinematch-ai-movie-recommendation-system) | Full-stack hybrid movie recommendation — TruncatedSVD + content-based + Ollama NL search | 16K+ movies · Docker CI |
 | [**End-to-End ML Pipeline**](https://github.com/AdithyaRaoK14/End-to-End-ML-Pipeline-with-MLflow) | Credit card fraud detection with MLflow, SHAP & drift detection | Recall: 86.73% · ROC-AUC: 0.9797 |
@@ -187,7 +194,7 @@ Hybrid SVM-RF ensemble on **30,920** labeled SQL queries; BiLSTM separately benc
 
 ## 💼 What I'm Looking For
 
-I'm actively seeking **ML Engineering**, **AI Backend**, and **Data Science** roles — and open to research collaborations and open-source projects involving agentic systems, RAG architectures, or production ML pipelines.
+I'm actively seeking **ML Engineering**, **AI Backend**, **Backend/Distributed Systems**, and **Data Science** roles — and open to research collaborations and open-source projects involving agentic systems, RAG architectures, production ML pipelines, or distributed backend systems.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=0a0f1e)](https://www.linkedin.com/in/adithya-rao-kalathur-7b5727221)
 [![Email](https://img.shields.io/badge/Send_an_Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=0a0f1e)](mailto:aditykr142@gmail.com)
