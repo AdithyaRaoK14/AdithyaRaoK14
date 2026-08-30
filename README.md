@@ -27,7 +27,7 @@ I build **backend systems**, **ML/AI pipelines**, and **distributed infrastructu
 
 That shows up across a fairly wide range of work: authentication microservices and job queues built the way production systems actually need to work, a network-traffic pipeline orchestrated end-to-end with Airflow, a Linux kernel driver extended with proc/timer/workqueue mechanisms, and — on the AI side — retrieval and agentic systems that go beyond a plain chatbot wrapper, including knowledge-graph RAG and multi-strategy retrieval evaluation platforms.
 
-I'm also a **published first author**: my book chapter on SQL injection detection (a hybrid SVM-RF ensemble benchmarked against a standalone BiLSTM) was published by **Taylor & Francis / CRC Press** and presented at **ICCIDC 2025, Bali, Indonesia**.
+I'm also a **published first author**: my book chapter comparing SVM, Random Forest, and a hybrid SVM-RF model for SQL injection detection — extended with sequence-based deep learning models (LSTM, BiLSTM, and a CNN-BiLSTM hybrid) — was published by **Taylor & Francis / CRC Press** and presented at **ICCIDC 2025, Bali, Indonesia**.
 
 ```
 📍 Udupi, Karnataka, India     🎓 M.E. CSE @ MSIS Manipal (2025–2027)     💼 Open to Work
@@ -150,7 +150,7 @@ I'm also a **published first author**: my book chapter on SQL injection detectio
 
 | Project | What it does |
 |:---|:---|
-| [**SQL Injection Detection**](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models) ⬡ *Published* | Hybrid SVM-RF ensemble + BiLSTM for SQL injection detection |
+| [**SQL Injection Detection**](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models) ⬡ *Published* | Compares SVM, Random Forest, and a hybrid SVM-RF model, extended with LSTM/BiLSTM/CNN-BiLSTM for SQL injection detection |
 | [**Network Anomaly Detection**](https://github.com/AdithyaRaoK14/Network-Anomaly-Detection-Using-ML-Models) | Ensemble ML for network intrusion detection on NSL-KDD & CICIDS |
 
 ---
@@ -162,7 +162,7 @@ I'm also a **published first author**: my book chapter on SQL injection detectio
 📘 *Taylor & Francis / CRC Press — ISBN: 9781003773504 · October 2025*
 🌍 *Presented at ICCIDC 2025, Bali, Indonesia*
 
-Compares a hybrid SVM-RF ensemble against a standalone BiLSTM on 30,920 labeled SQL queries for sequence-based NLP threat detection.
+Compares SVM, Random Forest, and a hybrid SVM-RF model for SQL injection detection on ~30,920 labeled SQL queries, extended with sequence-based deep learning models — LSTM, BiLSTM, and a CNN-BiLSTM hybrid — for detecting more complex, obfuscated injection patterns.
 
 [![View Publication](https://img.shields.io/badge/Taylor_%26_Francis-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003773504-12/enhancing-sql-injection-detection-comparative-study-svm-random-forest-hybrid-models-adithya-rao-kalathur-vaishnavi-balachandra-muniyal)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithyaRaoK14/Enhancing-SQL-Injection-Detection-A-Comparative-Study-of-SVM-Random-Forest-and-Hybrid-Models)
